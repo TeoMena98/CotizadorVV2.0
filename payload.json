@@ -1,0 +1,20 @@
+{
+  "resumen": "Vuelo de ida: 2025-11-14 - Aerolínea: COPA - Salida: 9:44 a.m. Llegada: 4:08 p.m. - Duración: 5 horas y 24 minutos - Tipo: Con escala\nVuelo de regreso: 2025-11-19 - Aerolínea: COPA - Salida: 1:53 p.m. Llegada: 8:16 p.m. - Duración: 7 horas y 23 minutos - Tipo: Con escala\nPrecio: COP 3,493,460",
+  "precio": "COP 3,493,460",
+  "ida": {
+    "fecha": "2025-11-14",
+    "aerolinea": "COPA",
+    "salida": "9:44 a.m.",
+    "llegada": "4:08 p.m.",
+    "duracion": "5 horas y 24 minutos",
+    "tipo": "Con escala"
+  },
+  "regreso": {
+    "fecha": "2025-11-19",
+    "aerolinea": "COPA",
+    "salida": "1:53 p.m.",
+    "llegada": "8:16 p.m.",
+    "duracion": "7 horas y 23 minutos",
+    "tipo": "Con escala"
+  }
+}
